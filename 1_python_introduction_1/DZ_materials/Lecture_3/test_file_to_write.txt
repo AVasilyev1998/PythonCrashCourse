@@ -1,1 +1,1 @@
-Written row
+Written row with context manager
